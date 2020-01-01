@@ -5,7 +5,7 @@ var express = require('express'),
 
 dotenv.config();
 
-mongoose.connect(`mongodb+srv://shubhamg931:${process.env.PASS}@cluster0-fuc5u.mongodb.net/test?retryWrites=true&w=majority`,
+mongoose.connect(process.env.URI,
     { useNewUrlParser: true,
       useUnifiedTopology: true });
 
