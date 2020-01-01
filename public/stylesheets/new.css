@@ -1,0 +1,9 @@
+div.container{
+  width: 50%;
+  border: 2px solid grey;
+  padding: 40px;
+}
+
+textarea{
+  min-height: 200px;
+}
