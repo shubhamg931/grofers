@@ -23,4 +23,4 @@ STEPS TO RUN AND EXECUTE THE PROGRAM
 2. npm install
 3. Create .env file with a variable "URI" with value of "your MongoDB connection URI"
 4. npm start 
-5. APIs could be accessed at http://localhot:3000
+5. APIs could be accessed at http://localhost:3000
