@@ -3,10 +3,15 @@
 CRUD APIs for Product Catalog
 
 TechStack: MongoDB, Express, NodeJS
+
 View Engine: ejs
+
 Mongoose used for object modelling 
+
 Bootstrap used as CSS framework
+
 Deployed on Heroku cloud service
+
 
 https://grofers931.herokuapp.com/
 
